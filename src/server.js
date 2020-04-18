@@ -8,12 +8,17 @@ import './styles/index.css';
 const { PORT, NODE_ENV } = process.env;
 const dev = NODE_ENV === 'development';
 
-polka() // You can also use Express
+const app = polka() // You can also use Express
 	.use(
 		compression({ threshold: 0 }),
 		sirv('static', { dev }),
 		sapper.middleware()
-	)
-	.listen(PORT, err => {
-		if (err) console.log('error', err);
-	});
+	);
+
+console.log('PORT is', PORT)
+
+app.listen(PORT, err => {
+	if (err) console.log('error', err);
+})
+  
+export default app.handler

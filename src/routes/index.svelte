@@ -12,7 +12,7 @@
         text-gray-900 sm:leading-none sm:text-6xl lg:text-5xl xl:text-6xl">
         Nahuel Chaves
         <br class="hidden md:inline" />
-        <span class="text-blue-500">Sr. Software Engineer</span>
+        <span class="text-blue-500">Sr. Software Engineer.</span>
       </h2>
       <p
         class="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg
