@@ -5,8 +5,13 @@
 </script>
 
 <main class="relative bg-white overflow-hidden">
-	<div class="relative pt-6 pb-16 md:pb-20">
+	<!-- <div class="relative pt-6 pb-16 md:pb-20">
 		<Nav {segment}/>
+	</div> -->
+
+	<div class="flex h-screen">
+		<div class="m-auto">
+			<slot></slot>
+		</div>
 	</div>
-	<slot></slot>
 </main>

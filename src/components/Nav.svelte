@@ -33,7 +33,7 @@
         </button>
       </div>
     </div>
-    <div class="hidden md:block md:ml-10">
+    <div class="hidden md:block">
       <a
         href="/"
         aria-current={segment === 'home' ? 'page' : undefined}
