@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "name": "nahuelchaves",
+    "builds": [
+      { "src": "package.json", "use": "now-sapper" }
+    ]
+  }
