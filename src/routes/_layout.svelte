@@ -1,7 +1,7 @@
 <script>
 	import Nav from '../components/Nav.svelte';
 
-	export let segment;
+	// export let segment;
 </script>
 
 <main class="relative bg-white overflow-hidden">
@@ -10,8 +10,6 @@
 	</div> -->
 
 	<div class="flex h-screen">
-		<div class="m-auto">
-			<slot></slot>
-		</div>
+		<slot></slot>
 	</div>
 </main>

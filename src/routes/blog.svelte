@@ -1,12 +1,10 @@
 <script>
-  import {posts} from '../posts'
+    import { posts } from '../posts';
+    import BlogItem from '../components/BlogItem.svelte';
 </script>
 
-{#each posts as post}
-  <article>
-    <a href={`/posts/${post.permalink}`}>
-      <h2>{post.title}</h2>
-      <p>{post.summary}</p>
-    </a>
-  </article>
-{/each}
+<section class="w-1/2 m-auto">
+    {#each posts as post}
+        <BlogItem {post} />
+    {/each}
+</section>
