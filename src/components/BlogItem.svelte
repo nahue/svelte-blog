@@ -3,7 +3,7 @@
     import Date from '../components/Date.svelte';
 
     export let post;
-    let showMetadata = true;
+    let showMetadata = false;
 </script>
 
 <article
