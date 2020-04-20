@@ -24,10 +24,14 @@
                             </span>
                         </div>
                         <div class="flex items-center justify-end">
-                            <span class="bg-gray-700 text-white inline-block px-2 py-1">
+                            <span
+                                class="bg-gray-700 text-white inline-block px-2
+                                py-1">
                                 Software
                             </span>
-                            <span class="bg-gray-700 text-white inline-block px-2 py-1">
+                            <span
+                                class="bg-gray-700 text-white inline-block px-2
+                                py-1">
                                 Engineer
                             </span>
                         </div>
@@ -47,4 +51,15 @@
             </div>
         </div>
     </div>
+
+    <ul class="flex mt-20 text-gray-200 justify-between">
+        <li class="-mb-px">#aws-solutions-architect</li>
+        <li class="mr-1">#linux</li>
+        <li class="mr-1">#python</li>
+        <li class="mr-1">#javascript</li>
+        <li class="mr-1">#react</li>
+        <li class="mr-1">#svelte</li>
+        <li class="mr-1">#node</li>
+        <li class="mr-1">#java</li>
+    </ul>
 </div>
