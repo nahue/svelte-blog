@@ -36,42 +36,31 @@
         <div class="hidden md:block">
             <a
                 href="/"
+                class:text-gray-900={segment === 'home'}
                 aria-current={segment === 'home' ? 'page' : undefined}
-                class="font-medium text-gray-500 hover:text-gray-900
+                class="font-medium text-gray-300 hover:text-gray-900
                 focus:outline-none focus:text-gray-900 transition duration-150
                 ease-in-out">
                 Home
             </a>
-            <a
+            <!--<a
                 href="resume"
                 aria-current={segment === 'resume' ? 'page' : undefined}
-                class="ml-10 font-medium text-gray-500 hover:text-gray-900
+                class="ml-10 font-medium text-gray-300 hover:text-gray-900
                 focus:outline-none focus:text-gray-900 transition duration-150
                 ease-in-out">
                 Resume
-            </a>
+            </a>-->
             <a
                 href="blog"
                 aria-current={segment === 'blog' ? 'page' : undefined}
-                class="ml-10 font-medium text-gray-500 hover:text-gray-900
+                class="ml-10 font-medium text-gray-300 hover:text-gray-900
                 focus:outline-none focus:text-gray-900 transition duration-150
                 ease-in-out">
                 Blog
             </a>
         </div>
     </div>
-    <!--
-		
-		<ul>
-		<li><a aria-current='{segment === undefined ? "page" : undefined}' href='.'>home</a></li>
-		<li><a aria-current='{segment === "about" ? "page" : undefined}' href='about'>about</a></li>
-
-		<!-- for the blog link, we're using rel=prefetch so that Sapper prefetches
-		     the blog data when we hover over the link or tap it on a touchscreen --
-		<li><a rel=prefetch aria-current='{segment === "blog" ? "page" : undefined}' href='blog'>blog</a></li>
-	</ul>
-	-->
-
     <!--
       Mobile menu, show/hide based on menu open state.
 
@@ -127,15 +116,16 @@
                         transition duration-150 ease-in-out">
                         Home
                     </a>
-                    <a
+                    <!--<a
                         href="/resume"
                         class="mt-1 block px-3 py-2 rounded-md text-base
                         font-medium text-gray-700 hover:text-gray-900
                         hover:bg-gray-50 focus:outline-none focus:text-gray-900
                         focus:bg-gray-50 transition duration-150 ease-in-out">
                         Resume
-                    </a>
+                    </a>-->
                     <a
+                        rel=prefetch
                         href="/blog"
                         class="mt-1 block px-3 py-2 rounded-md text-base
                         font-medium text-gray-700 hover:text-gray-900

@@ -8,7 +8,7 @@
   <div class="mx-auto max-w-screen-xl px-4 sm:px-6">
     <div class="lg:grid lg:grid-cols-12 lg:gap-8">
       <div
-        class="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left">
+        class="sm:text-center md:max-w-2xl lg:col-span-6 lg:text-left">
         <h2
           class="mt-1 text-4xl tracking-tight leading-10 font-extrabold
           text-gray-900 sm:leading-none sm:text-6xl lg:text-5xl xl:text-6xl">
