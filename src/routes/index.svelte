@@ -14,7 +14,7 @@
                     font-extrabold text-gray-900 sm:leading-none sm:text-6xl
                     lg:text-5xl xl:text-6xl">
                     <div class="flex flex-col">
-                        <div class="flex items-center justify-end mb-1">
+                        <div class="flex items-center justify-center md:justify-end mb-1">
                             <img
                                 class="inline-block h-16 w-16 rounded-full mr-4"
                                 src="/avatar.jpeg"
@@ -23,7 +23,7 @@
                                 Nahuel Chaves
                             </span>
                         </div>
-                        <div class="flex items-center justify-end">
+                        <div class="flex items-center justify-center md:justify-end">
                             <span
                                 class="bg-gray-700 text-white inline-block px-2
                                 py-1">
