@@ -1,12 +1,18 @@
+<style>
+    :global(html), :global(body), :global(#sapper) {
+        height: 100%;
+    }
+</style>
+
 <script>
     import Nav from '../components/Nav.svelte';
 
     export let segment;
 </script>
 
-<main class="relative bg-white overflow-hidden">
+<main class="relative bg-white overflow-auto h-full">
 
-    <div class="flex flex-col h-screen">
+    <div class="flex flex-col h-full">
         <div class="relative pt-6">
             <Nav {segment} />
         </div>
