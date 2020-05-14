@@ -44,9 +44,7 @@
                 <p
                     class="text-base text-gray-500 sm:text-xl lg:text-lg
                     xl:text-xl">
-                    I create from lambdas all the way to full blown web
-                    applications, always using well-tested cutting-edge
-                    technologies.
+                    I create from small lambdas to full-blown web applications, always using well-tested cutting-edge technologies.
                 </p>
             </div>
         </div>

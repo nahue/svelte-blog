@@ -65,7 +65,7 @@
                     class="mt-1 text-sm leading-5 text-gray-900 sm:mt-0
                     sm:col-span-2">
                     Saas for building Seating Charts, its main focus is
-                    Ticketing Platforms. I worked both in the Java based core
+                    Ticketing Platforms. I worked both in the Java-based core
                     and Typescript based frontend, as well as all the
                     integrations in a plethora of stacks
                     <strong>
@@ -84,8 +84,37 @@
                 <dd
                     class="mt-1 text-sm leading-5 text-gray-900 sm:mt-0
                     sm:col-span-2">
-                    Managed a multicloud environment (Azure and AWS). Also i was
-                    involved in ASP.NET development for one of their clients.
+                    Here I managed Azure and AWS clouds for the company's
+                    clients always focusing on Customer Experience. Some
+                    environments include Docker containers, Websites, Web
+                    Applications, Mobile Backends, Databases. I'm working on
+                    projects such as:
+                    <ul
+                        class="my-5 text-sm leading-5 text-gray-900 mt-5
+                        list-disc">
+                        <li>Insurance company web application on Azure.</li>
+                        <li>
+                            Smart Cities platform with its infrastructure on
+                            AWS.
+                        </li>
+                        <li>
+                            Managing infrastructure for a multinational that
+                            needs web sites and applications deployment
+                            automation, and ensuring security with OWASP
+                            compliance.
+                        </li>
+                    </ul>
+                    My role also includes consulting for my co-workers. Allows
+                    me to be involved in a number of projects with different
+                    approaches and techs like:
+                    <ul
+                        class="my-5 text-sm leading-5 text-gray-900 mt-5
+                        list-disc">
+                        <li>.NET with Entity Framework for SQL Server</li>
+                        <li>Docker</li>
+                        <li>CRM's like Dynamics and SuiteCRM</li>
+                        <li>Windows and Linux servers</li>
+                    </ul>
                 </dd>
 
             </div>
@@ -99,13 +128,23 @@
                 <dd
                     class="mt-1 text-sm leading-5 text-gray-900 sm:mt-0
                     sm:col-span-2">
-                    I was involved in several projects, mainly to developing
-                    custom apps using Python and Javascript, using Frameworks
-                    like
-                    <strong>Django</strong>
-                    and
-                    <strong>React</strong>
-                    .
+                    I've was involved in the majority of the company's projects,
+                    for companies like:
+                    <ul
+                        class="my-5 text-sm leading-5 text-gray-900 mt-5
+                        list-disc">
+                        <li>Quadrant</li>
+                        <li>FeeTrader</li>
+                        <li>Plantbid</li>
+                        <li>3D Data</li>
+                        <li>Parasail Health</li>
+                        <li>Data Guardian Pro's</li>
+                    </ul>
+                    My job is to adapt to the client's needs, can be Full Stack,
+                    Backend, Frontend or DevOps, or a mixture of them. I had the
+                    freedom to try new technologies and was able to leave my
+                    mark by improving the user experience in many cases, or by
+                    teaching my co-workers to do a better job.
                 </dd>
             </div>
         </dl>
