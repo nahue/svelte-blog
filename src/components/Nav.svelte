@@ -116,15 +116,15 @@
                         transition duration-150 ease-in-out">
                         Home
                     </a>
-                    <!--<a
+                    <a
                         href="/resume"
                         class="mt-1 block px-3 py-2 rounded-md text-base
                         font-medium text-gray-700 hover:text-gray-900
                         hover:bg-gray-50 focus:outline-none focus:text-gray-900
                         focus:bg-gray-50 transition duration-150 ease-in-out">
                         Resume
-                    </a>-->
-                    <a
+                    </a>
+                    <!--<a
                         rel=prefetch
                         href="/blog"
                         class="mt-1 block px-3 py-2 rounded-md text-base
@@ -132,7 +132,7 @@
                         hover:bg-gray-50 focus:outline-none focus:text-gray-900
                         focus:bg-gray-50 transition duration-150 ease-in-out">
                         Blog
-                    </a>
+                    </a>-->
                 </div>
             </div>
         </div>

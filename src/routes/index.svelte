@@ -52,14 +52,16 @@
         </div>
     </div>
 
-    <ul class="flex mt-20 text-gray-200 justify-between">
-        <li class="-mb-px">#aws-solutions-architect</li>
-        <li class="mr-1">#linux</li>
-        <li class="mr-1">#python</li>
-        <li class="mr-1">#javascript</li>
-        <li class="mr-1">#react</li>
-        <li class="mr-1">#svelte</li>
-        <li class="mr-1">#node</li>
-        <li class="mr-1">#java</li>
-    </ul>
+    <div class="mt-10 mx-auto max-w-screen-xl">
+        <ul class="grid grid-cols-2 gap-4 lg:grid-cols-8 lg:gap-8 text-center text-gray-300">
+            <li class="">#aws-solutions-architect</li>
+            <li class="">#linux</li>
+            <li class="">#python</li>
+            <li class="">#javascript</li>
+            <li class="">#react</li>
+            <li class="">#svelte</li>
+            <li class="">#node</li>
+            <li class="">#java</li>
+        </ul>
+    </div>
 </div>
