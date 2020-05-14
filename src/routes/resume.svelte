@@ -53,10 +53,6 @@
             language is Spanish, and I'm also fluent in English (to read, write,
             and talk).
         </p>
-        <p class="text-sm leading-5 text-gray-500 mt-5">
-            But i feel that's not as important as my "newly" remote life, so
-            let's get to it.
-        </p>
     </div>
     <div class="mt-5 border-t border-gray-200 pt-5">
         <dl>
