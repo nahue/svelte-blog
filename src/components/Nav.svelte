@@ -43,22 +43,22 @@
                 ease-in-out">
                 Home
             </a>
-            <!--<a
+            <a
                 href="resume"
                 aria-current={segment === 'resume' ? 'page' : undefined}
                 class="ml-10 font-medium text-gray-300 hover:text-gray-900
                 focus:outline-none focus:text-gray-900 transition duration-150
                 ease-in-out">
                 Resume
-            </a>-->
-            <a
+            </a>
+            <!--<a
                 href="blog"
                 aria-current={segment === 'blog' ? 'page' : undefined}
                 class="ml-10 font-medium text-gray-300 hover:text-gray-900
                 focus:outline-none focus:text-gray-900 transition duration-150
                 ease-in-out">
                 Blog
-            </a>
+            </a>-->
         </div>
     </div>
     <!--

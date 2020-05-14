@@ -19,13 +19,13 @@
                                 class="inline-block h-16 w-16 rounded-full mr-4"
                                 src="/avatar.jpeg"
                                 alt="" />
-                            <span class="inline-block align-bottom">
+                            <span class="inline-block align-bottom text-gray-800">
                                 Nahuel Chaves
                             </span>
                         </div>
                         <div class="flex items-center justify-center md:justify-end">
                             <span
-                                class="bg-gray-700 text-white inline-block px-2
+                                class="bg-gray-800 text-white inline-block px-2
                                 py-1">
                                 Software
                             </span>
