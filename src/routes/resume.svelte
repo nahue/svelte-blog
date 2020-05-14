@@ -17,7 +17,7 @@
             Director position, so i ended up in charge of an entire Datacenter
             keeping Personal and Financial info, as well as Services for the
             other public workers such as Websites, Email, File Servers, User
-            Directory, CRM and Project Management platforms)...
+            Directory, CRM and Project Management platforms...
         </p>
         <p class="text-sm leading-5 text-gray-500 mt-5">
             But i feel that's not as important as my "newly" remote life, so
