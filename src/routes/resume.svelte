@@ -10,14 +10,48 @@
         </p>
 
         <p class="text-sm leading-5 text-gray-500 mt-5">
-            For the last 6 years i worked mainly on remote positions, so i can
-            say i'm able to balance my personal and work life. Before that i
-            worked for the local goverment in the IT department. I started
-            repairing computers as a teenager, and after a few years i reached a
-            Director position, so i ended up in charge of an entire Datacenter
-            keeping Personal and Financial info, as well as Services for the
-            other public workers such as Websites, Email, File Servers, User
-            Directory, CRM and Project Management platforms...
+            For the past 15 years, I have been a Full Stack developer, and since
+            mid-2014, I developed my DevOps skills. I love traveling, rock
+            music, and primarily enjoy life with my fiance.
+        </p>
+        <p class="text-sm leading-5 text-gray-500 mt-5">
+            On a professional level, my experience goes from learning the
+            programming basics on Fox 2.6 with my father to manage a physical
+            data center on the local government and handle multi-cloud
+            environments with Azure and Amazon AWS.
+        </p>
+        <p class="text-sm leading-5 text-gray-500 mt-5">
+            I've also been developing my Full Stack skills with many languages
+            such as PHP, Python, Javascript, C#, and a lot of well-known
+            frameworks.
+        </p>
+        <p class="text-sm leading-5 text-gray-500 mt-5">
+            I can say I have experience with other aspects of technology such
+            as:
+        </p>
+
+        <ul class="mt-5 text-sm leading-5 text-gray-500 mt-5 list-disc">
+            <li>HTML and CSS for mocking UI's</li>
+            <li>
+                Databases such as SQL Server, MongoDB, PostgreSQL, MySQL and its
+                forks (mainly for querying, but I also did some installations
+                and essential management)
+            </li>
+            <li>
+                Containers using AWS ECS, Docker, and Kubernetes for building
+                Micro Services platforms.
+            </li>
+            <li>
+                Code Integration and Code Delivery using CircleCI and Jenkins.
+            </li>
+        </ul>
+        <p class="text-sm leading-5 text-gray-500 mt-5">
+            I am a constant and fast learner, always trying to improve myself,
+            personally and professionally. Also, I can't see myself working
+            without a Team, having one pushes me to be better and to teach
+            others what I've learned, and that feels very rewarding. My native
+            language is Spanish, and I'm also fluent in English (to read, write,
+            and talk).
         </p>
         <p class="text-sm leading-5 text-gray-500 mt-5">
             But i feel that's not as important as my "newly" remote life, so
