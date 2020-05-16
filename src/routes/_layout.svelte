@@ -6,9 +6,14 @@
 
 <script>
     import Nav from '../components/Nav.svelte';
+    import GoogleAnalytics from "sapper-google-analytics/GoogleAnalytics.svelte"
+    import { stores } from "@sapper/app"
 
+    let ga_id = "UA-166804458-1"
     export let segment;
 </script>
+
+<GoogleAnalytics {stores} id={ga_id}/>
 
 <main class="relative bg-white overflow-auto h-full">
 
